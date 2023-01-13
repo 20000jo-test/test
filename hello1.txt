@@ -6,3 +6,4 @@ six
 일곱
 8
 9
+sourcetree 사용
